@@ -7,8 +7,6 @@ Cardiophile presents an idea of serving customers with heart conditions. We have
 3.	Innovation in the business
 Our company helps customers in improving their health by helping them to adopt a healthy and fun lifestyle without bearing the consequences of high-dose medicines. We provide a fusion of diet and exercise along with movies and travel so our customers enjoy their life while improving their health. Partnership with companies like Airbnb, Netflix, Gold Gym, etc. is a one-of-a-kind innovation that we have implemented in our business that no other businesses in the market currently offer. Our professionals spend time listening and gathering information from customers and then making a customized healthy living plan. These plans depend on many aspects of the customer’s life including BMI, smoking/drinking habits, physical activities, sleep schedule, and other medical conditions.
 
-![image](https://github.com/devb999/cardiophile-data-visualization-tableau/assets/122685735/4dc0812d-76ed-4b61-b4fd-52766ab4e251)
- 
 5.	Targeted Population and Similar businesses
 Our Company aims to serve people with cardiovascular diseases all over the world. Many businesses are currently providing diet and exercise plans for addressing the general health of people however none of the businesses are specifically addressing people with cardiovascular diseases.
  
