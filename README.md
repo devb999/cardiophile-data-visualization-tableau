@@ -11,9 +11,9 @@ Our company helps customers in improving their health by helping them to adopt a
 Our Company aims to serve people with cardiovascular diseases all over the world. Many businesses are currently providing diet and exercise plans for addressing the general health of people however none of the businesses are specifically addressing people with cardiovascular diseases.
  
 6.	Major Tasks involved in this project
--	Data Preparation
--	Data Cleaning
--	Creating different data worksheets in Excel
+   -	Data Preparation
+   -	Data Cleaning
+   -	Creating different data worksheets in Excel
 -	Creating visualizations in Tableau
 -	Creating bins, groups, and calculated fields
 -	Creating dashboards in Tableau
